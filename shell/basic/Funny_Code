@@ -1,0 +1,2 @@
+root@tecmint:~# apt-get install cowsay 		(for Debian based OS)
+root@tecmint:~# yum install cowsay		(for Red Hat based OS)
