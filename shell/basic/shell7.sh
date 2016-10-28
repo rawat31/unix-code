@@ -17,7 +17,6 @@ B=$((100 * $A + 5)) # 305
 #a ** b exponentiation (a to the power of b)
 
 #other Example
-
 #!/bin/bash
 COST_PINEAPPLE=50
 COST_BANANA=4
