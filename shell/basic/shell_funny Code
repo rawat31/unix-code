@@ -1,0 +1,7 @@
+Input
+root@tecmint:~# apt-get install sl 		(In Debian like OS)
+root@tecmint:~# yum -y install sl 		(In Red Hat like OS)
+
+
+Output
+root@tecmint:~# sl
